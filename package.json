@@ -36,6 +36,9 @@
     "url-loader": "^1.0.1",
     "webpack": "^4.1.1",
     "webpack-cli": "^2.0.12",
-    "webpack-merge": "^4.1.2"
+    "webpack-merge": "^4.1.2",
+
+    "aurum": "oezi/aurum",
+    "hydrargyrion": "oezi/hydrargyrion"
   }
 }
